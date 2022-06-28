@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "restsharp/RestSharp",
+    "stargazers_count": 8478,
+    "open_issues_count": 46,
+    "forks_count": 2236
+  },
+  {
     "full_name": "thombashi/tcconfig",
     "stargazers_count": 640,
     "open_issues_count": 11,
@@ -8,38 +14,38 @@
   {
     "full_name": "JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module",
     "stargazers_count": 103,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 20
   },
   {
     "full_name": "ardalis/CleanArchitecture",
-    "stargazers_count": 10553,
-    "open_issues_count": 27,
-    "forks_count": 1936
+    "stargazers_count": 10566,
+    "open_issues_count": 29,
+    "forks_count": 1937
   },
   {
     "full_name": "jasontaylordev/CleanArchitecture",
-    "stargazers_count": 8914,
+    "stargazers_count": 8941,
     "open_issues_count": 7,
-    "forks_count": 2033
+    "forks_count": 2038
   },
   {
     "full_name": "msys2/MINGW-packages",
     "stargazers_count": 1777,
-    "open_issues_count": 675,
-    "forks_count": 1013
+    "open_issues_count": 668,
+    "forks_count": 1011
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 197716,
-    "open_issues_count": 147,
-    "forks_count": 28343
+    "stargazers_count": 198034,
+    "open_issues_count": 151,
+    "forks_count": 28385
   },
   {
     "full_name": "cat-milk/Anime-Girls-Holding-Programming-Books",
-    "stargazers_count": 14116,
+    "stargazers_count": 14144,
     "open_issues_count": 19,
-    "forks_count": 730
+    "forks_count": 729
   },
   {
     "full_name": "harrison-broadbent/libgen-api",
@@ -49,21 +55,21 @@
   },
   {
     "full_name": "d2phap/ImageGlass",
-    "stargazers_count": 3993,
+    "stargazers_count": 4018,
     "open_issues_count": 282,
-    "forks_count": 331
+    "forks_count": 334
   },
   {
     "full_name": "nana-4/materia-theme",
-    "stargazers_count": 3241,
+    "stargazers_count": 3244,
     "open_issues_count": 100,
     "forks_count": 258
   },
   {
     "full_name": "micheleg/dash-to-dock",
-    "stargazers_count": 3223,
-    "open_issues_count": 670,
-    "forks_count": 446
+    "stargazers_count": 3227,
+    "open_issues_count": 669,
+    "forks_count": 448
   },
   {
     "full_name": "naei/wanikani-companion",
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "cpinitiative/usaco-guide",
-    "stargazers_count": 1035,
-    "open_issues_count": 56,
-    "forks_count": 271
+    "stargazers_count": 1036,
+    "open_issues_count": 53,
+    "forks_count": 273
   },
   {
     "full_name": "jaxwilko/gtk-theme-framework",
@@ -85,15 +91,15 @@
   },
   {
     "full_name": "miguelgrinberg/python-socketio",
-    "stargazers_count": 2902,
-    "open_issues_count": 34,
-    "forks_count": 492
+    "stargazers_count": 2904,
+    "open_issues_count": 36,
+    "forks_count": 494
   },
   {
     "full_name": "boppreh/keyboard",
-    "stargazers_count": 2959,
+    "stargazers_count": 2961,
     "open_issues_count": 326,
-    "forks_count": 356
+    "forks_count": 357
   },
   {
     "full_name": "keeferrourke/la-capitaine-icon-theme",
