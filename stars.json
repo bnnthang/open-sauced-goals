@@ -1,8 +1,8 @@
 [
   {
     "full_name": "restsharp/RestSharp",
-    "stargazers_count": 8484,
-    "open_issues_count": 46,
+    "stargazers_count": 8485,
+    "open_issues_count": 48,
     "forks_count": 2235
   },
   {
@@ -19,33 +19,33 @@
   },
   {
     "full_name": "ardalis/CleanArchitecture",
-    "stargazers_count": 10578,
+    "stargazers_count": 10582,
     "open_issues_count": 30,
-    "forks_count": 1940
+    "forks_count": 1941
   },
   {
     "full_name": "jasontaylordev/CleanArchitecture",
-    "stargazers_count": 8960,
+    "stargazers_count": 8963,
     "open_issues_count": 9,
-    "forks_count": 2043
+    "forks_count": 2044
   },
   {
     "full_name": "msys2/MINGW-packages",
     "stargazers_count": 1778,
-    "open_issues_count": 680,
+    "open_issues_count": 671,
     "forks_count": 1012
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 198467,
-    "open_issues_count": 151,
-    "forks_count": 28436
+    "stargazers_count": 198691,
+    "open_issues_count": 153,
+    "forks_count": 28443
   },
   {
     "full_name": "cat-milk/Anime-Girls-Holding-Programming-Books",
-    "stargazers_count": 14163,
-    "open_issues_count": 19,
-    "forks_count": 730
+    "stargazers_count": 14173,
+    "open_issues_count": 20,
+    "forks_count": 731
   },
   {
     "full_name": "harrison-broadbent/libgen-api",
@@ -55,19 +55,19 @@
   },
   {
     "full_name": "d2phap/ImageGlass",
-    "stargazers_count": 4031,
+    "stargazers_count": 4032,
     "open_issues_count": 282,
-    "forks_count": 335
+    "forks_count": 334
   },
   {
     "full_name": "nana-4/materia-theme",
-    "stargazers_count": 3246,
-    "open_issues_count": 100,
+    "stargazers_count": 3247,
+    "open_issues_count": 101,
     "forks_count": 259
   },
   {
     "full_name": "micheleg/dash-to-dock",
-    "stargazers_count": 3230,
+    "stargazers_count": 3232,
     "open_issues_count": 670,
     "forks_count": 448
   },
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "cpinitiative/usaco-guide",
-    "stargazers_count": 1037,
-    "open_issues_count": 54,
+    "stargazers_count": 1039,
+    "open_issues_count": 56,
     "forks_count": 274
   },
   {
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "miguelgrinberg/python-socketio",
-    "stargazers_count": 2912,
+    "stargazers_count": 2914,
     "open_issues_count": 36,
     "forks_count": 494
   },
   {
     "full_name": "boppreh/keyboard",
-    "stargazers_count": 2965,
+    "stargazers_count": 2967,
     "open_issues_count": 326,
     "forks_count": 355
   },
